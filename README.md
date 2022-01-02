@@ -3,7 +3,7 @@
 #Instal·lació:
 
 ```bash 
-npm install casteaching
+npm install @l3lackjack/casteaching
 ``` 
 #Usage
 Exemple d'ús:

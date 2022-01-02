@@ -1,14 +1,29 @@
 {
-  "name": "@l3lackjack/casteaching_gabriel",
-  "version": "1.0.2",
-  "description": "",
+  "name": "@l3lackjack/casteaching",
+  "version": "1.0.3",
+  "description": "#Instal·lació:",
   "main": "index.js",
+  "dependencies": {
+    "axios": "^0.24.0"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l3lackJack/casteaching_package.git"
+  },
+  "keywords": [
+    "Casteaching",
+    "axios",
+    "api",
+    "rest"
+  ],
+  "author": "Gabriel Urs",
   "license": "ISC",
-  "dependencies": {
-    "axios": "^0.24.0"
-  }
+  "bugs": {
+    "url": "https://github.com/l3lackJack/casteaching_package/issues"
+  },
+  "homepage": "https://github.com/l3lackJack/casteaching_package#readme"
 }
